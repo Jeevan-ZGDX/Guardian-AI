@@ -1,0 +1,12 @@
+fastapi==0.115.8
+uvicorn==0.34.0
+pydantic==2.10.6
+web3==7.8.0
+python-multipart==0.0.20
+transformers==4.48.3
+torch==2.6.0
+langdetect==1.0.9
+reportlab==4.2.5
+SpeechRecognition==3.14.1
+pydub==0.25.1
+scikit-learn==1.6.1
