@@ -1,4 +1,4 @@
-# TrackChain - Campus Issue Resolution System
+# Guardian-AI - Campus Issue Resolution System
 
 A modern, blockchain-integrated campus issue resolution system built with React, FastAPI, and SQLite. Features dynamic animations, JWT authentication, and role-based access control.
 
